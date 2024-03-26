@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thinhphan1122
 - 👀 I’m interested in web developing
-- 🌱 I’m currently learning Java, JavaScript
+- 🌱 I’m currently learning Java, JavaScript, PHP
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: thinhphanvn8499@gmail.com
 
